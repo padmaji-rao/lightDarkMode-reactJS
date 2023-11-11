@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.dark-container {
+  background-color: black;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Roboto';
+}
+.dark-head {
+  color: white;
+}
+.dark-button {
+  background-color: white;
+  border-style: solid;
+  border-width: 0px;
+  border-radius: 5px;
+  color: black;
+  padding: 7px;
+}
